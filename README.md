@@ -1,19 +1,23 @@
-<h1 align="center">Hi 👋, I'm Your Prajitha Palani</h1>
-<h3 align="center">A passionate developer</h3><br>
+<h1 align="center">Hi 👋, I'm Prajitha Palani</h1>
+<h3 align="center">A passionate Developer</h3><br>
 
 
 
 - 🌱 I’m currently learning **Post-Quantum Cryptography, Qiskit**
 
-- 👨‍💻 All of my projects are available at [https://github.com/your-github-username](https://github.com/PrajithaPalani30)
-
-- 💬 Ask me about **Quantum Computing, Java, Cryptography**
+- 👨‍💻 All of my projects are available at [https://github.com/PrajithaPalani30](https://github.com/PrajithaPalani30)
 
 - 📫 How to reach me **prajipalani786@gmail.com**
 
 ---
+## 👋 About Me
 
-<table align="center" width="100%">More actions
+Hi there! I'm **Prajitha palani**, a passionate **B.Tech Information Technology student** from 📚 **K. Ramakrishnan College of Engineering, Samayapuram**.Dedicated to learning, building, and growing in the field of technology.
+
+---
+## 🌟 Skills Overview
+
+<table align="center" width="100%">
   <tr>
     <td valign="top" width="50%">
       
@@ -37,6 +41,8 @@
     </td>
   </tr>
 </table>
+
+---
 
 ### 🔗 Let's Connect
 
